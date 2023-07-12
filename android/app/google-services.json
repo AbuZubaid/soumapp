@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253863792393",
+    "project_id": "fasting-851e0",
+    "storage_bucket": "fasting-851e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253863792393:android:35e5a30be1179c9921cdd8",
+        "android_client_info": {
+          "package_name": "com.example.fastingapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253863792393-fgs72fksmk68q80mmvhl8if6paefiu0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwCA0QPuzAfVscUfyL9Yrf6hGqcpOYJ94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253863792393-fgs72fksmk68q80mmvhl8if6paefiu0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
